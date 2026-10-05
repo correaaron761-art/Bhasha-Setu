@@ -1,0 +1,8 @@
+fastapi>=0.115
+uvicorn[standard]>=0.34
+python-multipart>=0.0.20
+numpy>=1.26
+soundfile>=0.13
+python-dotenv>=1.0
+qwen-tts>=0.1.1
+nemo_toolkit[asr]
